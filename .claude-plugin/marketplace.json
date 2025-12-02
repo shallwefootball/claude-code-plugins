@@ -19,14 +19,14 @@
     },
     {
       "name": "open-intellij",
-      "description": "현재 디렉토리를 IntelliJ IDEA에서 엽니다",
-      "version": "1.0.0",
+      "description": "에디터(IntelliJ IDEA CE)를 열어줍니다. 자연어 또는 /intellij 명령어로 사용 가능",
+      "version": "2.0.0",
       "author": {
         "name": "Dongkeon Kim",
         "email": "amos@shallwefootball.com"
       },
       "source": "./open-intellij",
-      "keywords": ["intellij", "ide", "editor", "open"]
+      "keywords": ["intellij", "ide", "editor", "open", "agent"]
     }
   ]
 }
