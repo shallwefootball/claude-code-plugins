@@ -1,12 +1,12 @@
 {
   "name": "plugin-manager",
-  "version": "1.1.0",
-  "description": "amos-cc-plugins 마켓플레이스를 업데이트합니다. 자연어로 '플러그인 업데이트해줘'라고 요청하세요",
+  "version": "1.2.0",
+  "description": "amos-cc-plugins 마켓플레이스를 업데이트합니다. /update 명령어를 사용하세요",
   "author": {
     "name": "Dongkeon Kim",
     "email": "amos@shallwefootball.com"
   },
-  "agents": [
-    "./agents/update-plugins.md"
+  "commands": [
+    "./commands/update.md"
   ]
 }
